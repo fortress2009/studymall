@@ -1,10 +1,12 @@
 <template>
-<h1>{{$store.state.count}}</h1>
+  <div>
+      分类
+  </div>
 </template>
 
 <script>
 export default {
-
+name:'Category'
 }
 </script>
 
